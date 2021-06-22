@@ -115,6 +115,6 @@ Update app permission
 
 Update info.plist file and add permission for access biometric
 ```xml
-	<key>NSFaceIDUsageDescription</key>
-	<string>Would like to use Face ID for authetication</string>
+<key>NSFaceIDUsageDescription</key>
+<string>Would like to use Face ID for authetication</string>
 ```
