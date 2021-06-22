@@ -1,0 +1,29 @@
+PODS:
+  - EllipticCurveKeyPair (2.0)
+  - Flutter (1.0.0)
+  - flutter_elliptic_curve_keypair (0.0.1):
+    - EllipticCurveKeyPair
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_elliptic_curve_keypair (from `.symlinks/plugins/flutter_elliptic_curve_keypair/ios`)
+
+SPEC REPOS:
+  trunk:
+    - EllipticCurveKeyPair
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_elliptic_curve_keypair:
+    :path: ".symlinks/plugins/flutter_elliptic_curve_keypair/ios"
+
+SPEC CHECKSUMS:
+  EllipticCurveKeyPair: 8c69e5238a6e47243a10a48fbd41dfb19110b22e
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_elliptic_curve_keypair: b33a5a33d7ada3938fd0b69679401bd41a50a761
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
