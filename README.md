@@ -1,4 +1,4 @@
-# flutter_elliptic_curve_keypair
+# Flutter elliptic curve keypair
 
 This Flutter plugin provides means to perform encrypt data using ellitic curve keypair algorthm,encapsulated with biometric crypto and get the public key to validate.
 
